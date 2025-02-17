@@ -13,10 +13,7 @@ body {
 
 .wrapper {
     position: relative;
-    width: 90%;
-    max-width: 500px;
     text-align: center;
-    background: white;
     padding: 30px 20px;
     border-radius: 15px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -37,11 +34,11 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.btn-group {
+/* .btn-group {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     gap: 15px;
-}
+} */
 
 button {
     padding: 12px 30px;
